@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.emiohr/seo-data-mcp",
+  "title": "SEO Data MCP",
+  "description": "Live SEO data for AI agents: Google keyword volume & difficulty with AI Overview flags, backlinks & link gap, domain authority, Google Trends, tech stack.",
+  "version": "1.0.0",
+  "websiteUrl": "https://github.com/emiohr/seo-data-mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com?tools=jesting_grass/keyword-research-tool,jesting_grass/backlink-checker,jesting_grass/bulk-domain-authority-checker,jesting_grass/google-trends-api,jesting_grass/tech-stack-detector",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer YOUR_APIFY_TOKEN (free account at console.apify.com → Settings → API & Integrations)",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
