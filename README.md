@@ -42,7 +42,7 @@ Get a token at [console.apify.com](https://console.apify.com) → Settings → A
 | [Keyword Research](https://apify.com/jesting_grass/keyword-research-tool) | Google search volume, keyword difficulty, intent, CPC, 12-month trend, SERP features incl. **AI Overview** flag, keyword ideas from a seed | $3 per 1,000 keywords, $1.50 per 1,000 ideas, plus $0.15 per Google Ads batch (per run, per 1,000 keywords) |
 | [Backlink Checker](https://apify.com/jesting_grass/backlink-checker) | Every backlink (source page, anchor, dofollow, authority), referring domains, **competitor link gap** | $1 per 1,000 backlinks |
 | [Bulk Domain Authority](https://apify.com/jesting_grass/bulk-domain-authority-checker) | Domain rank 0–100, referring domains, backlinks, dofollow ratio, 30-day changes | $8 per 1,000 domains |
-| [Google Trends](https://apify.com/jesting_grass/google-trends-api) | Interest over time, rising and top related queries and topics, interest by region | $0.025 per keyword |
+| [Google Trends](https://apify.com/jesting_grass/google-trends-api) | Interest over time, rising and top related queries and topics, interest by region | $0.025 per comparison of up to 5 keywords; related queries, topics or regions $0.03 per keyword |
 | [Tech Stack Detector](https://apify.com/jesting_grass/tech-stack-detector) | CMS, ecommerce platform, analytics, payments, CRM and hosting of any website | $0.02 per website |
 
 Empty results are free for every tool.
